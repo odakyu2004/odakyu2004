@@ -6,5 +6,3 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odakyu2004&&count_private=true&theme=radical" />
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odakyu2004&count_private=true&theme=radical" />
  </a>
-
---!>
